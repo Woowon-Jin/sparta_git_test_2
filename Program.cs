@@ -11,7 +11,7 @@ namespace Sparta
 
         static void Print4567()
         {
-            
+            //프린트 구문 수정입니다.
         }
     }
 }
