@@ -8,5 +8,10 @@ namespace Sparta
         {
             Console.WriteLine("아닌데요 제가 맞는데요?");
         }
+
+        static void Print1()
+        {
+            
+        }
     }
 }
