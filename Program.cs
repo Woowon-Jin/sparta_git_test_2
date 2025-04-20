@@ -6,7 +6,7 @@ namespace Sparta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("내가 맞습니다");
+            Console.WriteLine("아닌데요 제가 맞는데요?");
         }
     }
 }
